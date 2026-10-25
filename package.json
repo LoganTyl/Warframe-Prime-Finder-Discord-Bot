@@ -1,0 +1,33 @@
+{
+  "name": "warframe-discord-bot",
+  "version": "1.0.0",
+  "description": "\"# Warframe-Prime-Finder-Discord-Bot\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganTyl/Warframe-Prime-Finder-Discord-Bot.git"
+  },
+  "author": "LoganTyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganTyl/Warframe-Prime-Finder-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/LoganTyl/Warframe-Prime-Finder-Discord-Bot#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.5",
+    "dotenv": "^18.0.9",
+    "eslint": "^10.13.0",
+    "express": "^5.3.0",
+    "install": "^0.13.0",
+    "nodemon": "^3.1.14",
+    "npm": "^12.2.1",
+    "prettier": "^3.9.10",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^7.0.2"
+  }
+}
